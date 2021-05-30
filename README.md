@@ -1,4 +1,8 @@
 # QuizProject
+
+Quiz Project, bir online sınav / sözlü sistemidir. Bu sınav ve sözlü sistemi, dershaneler ve ya özel eğitim kurumları tarafından kullanılması için kodlanmıştır. Ücretsiz bir dağıtımı, kodlayan kişi yani benim Repo'mda mevcut. Başka arkadaşların izinsiz paylaşması, haklarımca yasaktır.
+
+Özelliklerine gelecek olursak ;
 - Stabilize edilmiş bir mimari
 - Salt PHP PDO Kullanıldı
 - PHP 7.4 Randımanlı
