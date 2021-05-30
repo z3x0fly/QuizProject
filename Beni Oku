@@ -1,0 +1,7 @@
+Kurulum aşamaları basit olup başlıca şundan ibarettir ;
+- Hosting panelinizden bir veri tabanı açın.
+- Kullanıcı yetkilerini atayın
+- phpMyAdmin'e girip "Veri Tabanı" klasörü içierisindeki SQL dosyanızı yükleyin
+-  backend/engine/database.php içeriğini kendinize göre düzenleyin
+
+İyi çalışmalar.
