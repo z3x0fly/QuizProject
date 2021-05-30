@@ -40,9 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `usn`, `pass`, `mail`, `name`) VALUES
-(1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin@admin.com', 'Sistem Yöneticisi'),
-(2, 'emre', '6b4f5edb7a0bacde6e1ab303e45b759a', '', '');
-
+(1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin@admin.com', 'Sistem Yöneticisi');
 -- --------------------------------------------------------
 
 --
@@ -129,7 +127,6 @@ CREATE TABLE `educators` (
 --
 
 INSERT INTO `educators` (`id`, `name`, `last`, `class`, `cat`, `mail`, `pass`, `tarih`, `status`) VALUES
-(28, 'Emre Can', 'Temur', '12A-Matematik', 'Fen Bilimeri', 'emrecantemurofficial@gmail.com', '78ae362f2b0a830f29dfa49dfb169874', '2021-05-29', '1'),
 (29, 'Deneme', 'Deneme2', '12A-Matematik', 'Matematik', 'deneme@gmail.com', '8f10d078b2799206cfe914b32cc6a5e9', '2021-05-30', '1');
 
 -- --------------------------------------------------------
