@@ -1,6 +1,6 @@
 # QuizProject
 
-Quiz Project, bir online sınav / sözlü sistemidir. Bu sınav ve sözlü sistemi, dershaneler ve ya özel eğitim kurumları tarafından kullanılması için kodlanmıştır. Ücretsiz bir dağıtımı, kodlayan kişi yani benim Repo'mda mevcut. Başka arkadaşların izinsiz paylaşması, haklarımca yasaktır.
+Quiz Project, bir online sınav / sözlü sistemidir. Bu sınav ve sözlü sistemi, dershaneler ve ya özel eğitim kurumları tarafından kullanılması için kodlanmıştır. Ücretsiz bir dağıtımı, kodlayan kişi yani benim Repo'mda mevcut. Başka arkadaşların izinsiz paylaşması, haklarımca yasaktır. Foreach Developers çatısı altında kamuoyuna açık şekilde yapılan paylaşımlar buna dahil değildir. Desteklerinizden ötürü hepinize teşekkürler. 💘
 
 Özelliklerine gelecek olursak ;
 - Stabilize edilmiş bir mimari
