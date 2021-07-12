@@ -6,7 +6,6 @@ Quiz Project, bir online sınav / sözlü sistemidir. Bu sınav ve sözlü siste
 - Stabilize edilmiş bir mimari
 - Salt PHP PDO Kullanıldı
 - PHP 7.4 Randımanlı
-- OOP MVC gibi yapıların alayı bulunmakta
 # KURULUM
 - İlk önce MySQL yöneticinizden veri tabanı oluşturun.
 - "backend/engine" içerisinde "database.php" dosyasını kendinize göre düzenleyin
